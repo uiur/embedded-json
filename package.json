@@ -1,0 +1,23 @@
+{
+  "name": "embedded-json",
+  "version": "1.0.0",
+  "description": "Read json embedded in dom",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uiureo/embedded-json.git"
+  },
+  "keywords": [
+    "json",
+    "browser"
+  ],
+  "author": "Kazato Sugimoto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uiureo/embedded-json/issues"
+  },
+  "homepage": "https://github.com/uiureo/embedded-json#readme"
+}
